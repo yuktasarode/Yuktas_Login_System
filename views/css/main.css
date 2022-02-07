@@ -1,0 +1,66 @@
+body{
+	text-align: center !important;
+	background-image: url(bg.jpg);
+	background-size: 2000px 700px;
+	background-repeat: no-repeat;
+	
+	
+
+}
+p{
+	margin-top: 20px;
+	font-size: 30px;
+	color:white;
+}
+input{
+	text-align: center;
+	width: 400px;
+	opacity:0.7;
+	
+	
+}
+#LangTable{
+    margin-bottom: 15px;
+}
+.form-card{
+    background-color: rgb(136, 133, 133)f;
+    border-radius: 30px;
+    margin-top: 100px;
+	margin-left: 90px;
+	margin-right: 50px;
+	opacity: 0.9;
+	
+}
+.mssg{
+	margin-top: 5px;
+	margin-bottom: 5px;
+	border-radius: 5px;
+}
+.sofia{
+	font-family: "Sofia", sans-serif;
+}
+.form-control{
+	width: 500px;
+	margin-left: 300px;
+	margin-right: 550px;
+	border-radius: 30px;
+}
+.form-group{
+	opacity:1;
+}
+span{
+	color:white;
+}
+.btn{
+	opacity:1;
+	background-color:#dd8d50;
+	margin-left: -20px;
+}
+
+a{
+	color:white;
+}
+.table{
+	background-color: rgb(238, 236, 236);
+	
+}
